@@ -1,0 +1,6 @@
+framework module Pods_CashTestTests {
+  umbrella header "Pods-CashTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
